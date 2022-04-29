@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- Senior Game Developer @DreamBitsStudio, working on Gladiator Wheels
+- Computer Science student @UNIMI
+
 <!--
 **tommasoromano/tommasoromano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
